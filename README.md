@@ -1,6 +1,6 @@
 ### Hi there, I'm Anton
 
-## I'm a Software Developer!
+## I'm a Software Developer! :star2:
 
 ### Connect with me:
 
